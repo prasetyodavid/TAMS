@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T04:42:45.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ifYhZpdaU9ejosMp-7bD" version="20.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-21T11:03:48.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BCcUzZLk-gOyPQNLc1kN" version="20.0.1" type="github" pages="12">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="MainMenu">
     <mxGraphModel dx="1139" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1868,14 +1868,14 @@
         <mxCell id="-Bgi64x-EQpvHo8ESXrv-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.down;fontColor=#4D4D4D;fillColor=#E6E6E6;" vertex="1" parent="-Bgi64x-EQpvHo8ESXrv-0">
           <mxGeometry x="730" y="96" width="20" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="-Bgi64x-EQpvHo8ESXrv-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SKP STP Bisa lebih dari 1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="S7MIvQaB_5unUCD9uu-u-1">
+        <mxCell id="-Bgi64x-EQpvHo8ESXrv-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SKP STP Bisa lebih dari 1 , Berdasarkan Jenis Pajak&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="S7MIvQaB_5unUCD9uu-u-1">
           <mxGeometry x="740" y="968" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Keberatan_addnew" id="N-5TgyTk8MU4Y-6J8kIg">
-    <mxGraphModel dx="630" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s7hGtwXR2PkM4yqcLP01-0" />
         <mxCell id="s7hGtwXR2PkM4yqcLP01-1" parent="s7hGtwXR2PkM4yqcLP01-0" />
