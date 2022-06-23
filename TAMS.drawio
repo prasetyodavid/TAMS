@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:45:22.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3i80zAniJSJyxipxTX7E" version="20.0.2" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-06-23T08:50:24.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wP_V80bJHj_EzZ69raHj" version="20.0.2" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UL-s0zWcEZjIWfqhGRpr" name="0.1 SP2DK_Grid">
-    <mxGraphModel dx="610" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,7 @@
         <mxCell id="PugAsBNVkxPuLp-uwAt2-0" />
         <mxCell id="PugAsBNVkxPuLp-uwAt2-1" parent="PugAsBNVkxPuLp-uwAt2-0" />
         <mxCell id="PugAsBNVkxPuLp-uwAt2-2" value="Summary" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-          <mxGeometry width="800" height="390" as="geometry" />
+          <mxGeometry width="800" height="530" as="geometry" />
         </mxCell>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-4" value="Project PT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
           <mxGeometry x="10" y="40" width="114" height="30" as="geometry" />
@@ -677,27 +677,19 @@
         <mxCell id="PugAsBNVkxPuLp-uwAt2-11" value="000,000,000.00&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
           <mxGeometry x="139" y="170" width="235" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Save" link="data:page/id,demxaWm4iWllAmm4PLwC" id="PugAsBNVkxPuLp-uwAt2-22">
-          <mxCell style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;fontStyle=1" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-            <mxGeometry x="201" y="330" width="169" height="38" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="PugAsBNVkxPuLp-uwAt2-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-user-interface-2/512/User_Interface-48-128.png;fontColor=default;strokeColor=#E6E6E6;strokeWidth=1;fillColor=none;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-          <mxGeometry x="199" y="324" width="50" height="50" as="geometry" />
-        </mxCell>
         <UserObject label="Cancel" link="data:page/id,demxaWm4iWllAmm4PLwC" id="PugAsBNVkxPuLp-uwAt2-24">
           <mxCell style="rounded=1;fillColor=#FF6666;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;fontStyle=1" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-            <mxGeometry x="9" y="330" width="171" height="38" as="geometry" />
+            <mxGeometry x="11" y="460" width="171" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-27" value="Success" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.success;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-          <mxGeometry x="249" y="480" width="120" height="70" as="geometry" />
+          <mxGeometry x="240" y="620" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-28" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fontColor=default;strokeColor=#E6E6E6;strokeWidth=1;fillColor=#FF6666;rotation=-90;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-          <mxGeometry x="260" y="390" width="80" height="60" as="geometry" />
+          <mxGeometry x="260" y="530" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-31" value="*child window popup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
-          <mxGeometry x="650" y="420" width="160" height="30" as="geometry" />
+          <mxGeometry x="660" y="590" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FcMq0vQsGXUIgbKp1Zm3-0" value="Data Menurut SPT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
           <mxGeometry x="10" y="210" width="130" height="30" as="geometry" />
@@ -748,6 +740,44 @@
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-1" value="Pembayaran dan Produk Hukum" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=2" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="400" y="320" width="373" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-3" value="Kode Jenis Setoran" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="409" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="539" y="360" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-5" value="NTPN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="410" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="540" y="400" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-7" value="Tanggal Bayar" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="11" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="141" y="360" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-9" value="Kode Akun Pajak" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="12" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-10" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="142" y="400" width="235" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lptoVfMf8FSpWfDLrDp-11" value="" style="group" vertex="1" connectable="0" parent="PugAsBNVkxPuLp-uwAt2-1">
+          <mxGeometry x="191" y="454" width="169" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="Save" link="data:page/id,demxaWm4iWllAmm4PLwC" id="PugAsBNVkxPuLp-uwAt2-22">
+          <mxCell style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;fontStyle=1" parent="1lptoVfMf8FSpWfDLrDp-11" vertex="1">
+            <mxGeometry y="6" width="169" height="38" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="PugAsBNVkxPuLp-uwAt2-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-user-interface-2/512/User_Interface-48-128.png;fontColor=default;strokeColor=#E6E6E6;strokeWidth=1;fillColor=none;" parent="1lptoVfMf8FSpWfDLrDp-11" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
