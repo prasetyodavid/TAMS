@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T09:19:14.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WXhzqAIbxnKy5QSlQkdX" version="20.0.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-03T04:22:21.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ual5RyV7k98mSmv9SPdp" version="20.2.1" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,30 +38,33 @@
         </mxCell>
         <mxCell id="vz8QINaDiPQ9SFlCDvsJ-62" value="ARCHIVE" style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" parent="vz8QINaDiPQ9SFlCDvsJ-58" vertex="1">
           <mxGeometry width="220" height="45" relative="1" as="geometry">
-            <mxPoint y="135" as="offset" />
+            <mxPoint y="170" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="SP2DK" link="data:page/id,UL-s0zWcEZjIWfqhGRpr" id="vz8QINaDiPQ9SFlCDvsJ-63">
           <mxCell style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" parent="vz8QINaDiPQ9SFlCDvsJ-58" vertex="1">
-            <mxGeometry x="31.42857142857143" y="195.25000000000003" width="188.57142857142858" height="49.50000000000001" as="geometry" />
+            <mxGeometry x="31.42857142857143" y="230.25000000000003" width="188.57142857142858" height="49.50000000000001" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Pemeriksaan" link="data:page/id,jYFrNAF_ZoYJ2OGqNaev" id="vz8QINaDiPQ9SFlCDvsJ-70">
           <mxCell style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" parent="vz8QINaDiPQ9SFlCDvsJ-58" vertex="1">
-            <mxGeometry x="31.42857142857143" y="244.75000000000003" width="188.57142857142858" height="49.50000000000001" as="geometry" />
+            <mxGeometry x="31.42857142857143" y="279.75" width="188.57142857142858" height="49.50000000000001" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="vz8QINaDiPQ9SFlCDvsJ-71" value="Gugatan" style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" parent="vz8QINaDiPQ9SFlCDvsJ-58" vertex="1">
-          <mxGeometry x="31.42857142857143" y="294.25" width="188.57142857142858" height="49.50000000000001" as="geometry" />
+          <mxGeometry x="31.42857142857143" y="329.25" width="188.57142857142858" height="49.50000000000001" as="geometry" />
         </mxCell>
         <mxCell id="vz8QINaDiPQ9SFlCDvsJ-72" value="REPORT" style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" parent="vz8QINaDiPQ9SFlCDvsJ-58" vertex="1">
-          <mxGeometry y="341" width="220" height="49.50000000000001" as="geometry" />
+          <mxGeometry y="376" width="220" height="49.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="uxIxFf0Cw31MjqYrtqh7-10" value="KPP Terdaftar" style="text;fontColor=#000000;verticalAlign=middle;spacingLeft=13;fontSize=14;resizeWidth=1;" vertex="1" parent="vz8QINaDiPQ9SFlCDvsJ-58">
+          <mxGeometry x="31.43" y="130" width="188.57142857142858" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UL-s0zWcEZjIWfqhGRpr" name="0.1 SP2DK_Grid">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="0.2 Pemeriksaan_Grid" id="jYFrNAF_ZoYJ2OGqNaev">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="n_sYM8LcrNcPRxApddbe-0" />
         <mxCell id="n_sYM8LcrNcPRxApddbe-1" parent="n_sYM8LcrNcPRxApddbe-0" />
@@ -291,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="demxaWm4iWllAmm4PLwC" name="1.0 SP2DK_addnew">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,7 +433,7 @@
           <mxGeometry x="10" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHkZ_RSctLkB40gavbBr-94" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380" width="240" height="40" as="geometry" />
+          <mxGeometry x="140" y="380" width="240" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Tanggapan" link="data:page/id,c52iCUCW4sudxZEbIMSD" id="uEdy32R_i7WFaX9uW9Do-1">
           <mxCell style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12;sketch=0;fontStyle=1" parent="1" vertex="1">
@@ -465,7 +468,7 @@
         <mxCell id="_rGg6eH47EVqlKx5Owd7-3" value="Delete" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#e51400;align=center;strokeColor=#B20000;fontColor=#ffffff;" parent="_Wwp8yRxypvAJOrcv_sF-1" vertex="1">
           <mxGeometry x="254" y="40" width="105.5" height="16.88" as="geometry" />
         </mxCell>
-        <mxCell id="_rGg6eH47EVqlKx5Owd7-21" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;Jenis Pajak&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;Tanggal Bayar&lt;/th&gt;&lt;td&gt;Menurut KPP&lt;/td&gt;&lt;td&gt;Menurut SPT&lt;br&gt;&lt;/td&gt;&lt;td&gt;Menurut Wajib Pajak&lt;/td&gt;&lt;td&gt;Menurut KPP&lt;br&gt;&lt;/td&gt;&lt;th align=&quot;left&quot;&gt;NTPN&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh Badan&lt;/td&gt;&lt;td&gt;DD-MM-YYYY&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;XXXX&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 21/26&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;DD-MM-YYYY&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;XXXX&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 22&lt;/td&gt;&lt;td&gt;DD-MM-YYYY&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;XXXX&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 23/26&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;DD-MM-YYYY&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;XXXX&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;fontColor=#4D4D4D;" parent="j38sSHkUakYdXS_lzeyB-2" vertex="1">
+        <mxCell id="_rGg6eH47EVqlKx5Owd7-21" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;Jenis Pajak&lt;/th&gt;&lt;td&gt;&lt;b&gt;Jumlah&lt;/b&gt;&lt;/td&gt;&lt;th align=&quot;left&quot;&gt;Tanggal Bayar&lt;/th&gt;&lt;td&gt;Kode Akun Pajak&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut KPP&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut SPT&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut Wajib Pajak&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut KPP&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;th align=&quot;left&quot;&gt;NTPN&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh Badan&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;DD-MM-YYYY&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;XXXX&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 21/26&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;DD-MM-YYYY&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;XXXX&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 22&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;DD-MM-YYYY&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;XXXX&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 23/26&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;DD-MM-YYYY&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;XXXX&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;fontColor=#4D4D4D;" parent="j38sSHkUakYdXS_lzeyB-2" vertex="1">
           <mxGeometry x="14" y="70" width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j38sSHkUakYdXS_lzeyB-3" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -520,13 +523,13 @@
         <mxCell id="edsxtbsfI9RtNbMjusqo-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-user-interface-2/512/User_Interface-48-128.png;shadow=1;fontColor=#4D4D4D;strokeColor=#E6E6E6;strokeWidth=1;fillColor=#E6E6E6;" parent="edsxtbsfI9RtNbMjusqo-3" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xkXpiBrbza3Jo1sgVVic-1" value="tambah inputan opsional..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="10" y="430" width="90" height="30" as="geometry" />
+        <mxCell id="xkXpiBrbza3Jo1sgVVic-1" value="Tipe" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="10" y="421.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xkXpiBrbza3Jo1sgVVic-11" value="Surat Saja / Korespondensi" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#E6E6E6;strokeWidth=1;spacingLeft=30;fontColor=#000000;align=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="431" width="240" height="33" as="geometry" />
+        <mxCell id="xkXpiBrbza3Jo1sgVVic-11" value="Surat Saja / Korespondensi" style="rounded=1;arcSize=9;fillColor=#ffffff;strokeColor=#E6E6E6;strokeWidth=1;spacingLeft=30;fontColor=#000000;align=left;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="420" width="240" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="xkXpiBrbza3Jo1sgVVic-12" value="" style="shape=step;whiteSpace=wrap;html=1;rounded=0;strokeColor=none;strokeWidth=2;fillColor=#0A1E43;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;direction=south;size=0.65;" vertex="1" parent="xkXpiBrbza3Jo1sgVVic-11">
+        <mxCell id="xkXpiBrbza3Jo1sgVVic-12" value="" style="shape=step;whiteSpace=wrap;html=1;rounded=0;strokeColor=none;strokeWidth=2;fillColor=#0A1E43;gradientColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;direction=south;size=0.65;" parent="xkXpiBrbza3Jo1sgVVic-11" vertex="1">
           <mxGeometry x="1" y="0.5" width="10" height="7" relative="1" as="geometry">
             <mxPoint x="-24" y="-3" as="offset" />
           </mxGeometry>
@@ -535,7 +538,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c52iCUCW4sudxZEbIMSD" name="1.1 SP2DK_Tanggapan">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1.2 Summary SP2DK_Tanggapan" id="Hm0V6uU0MD5hKMshufTV">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-0" />
         <mxCell id="PugAsBNVkxPuLp-uwAt2-1" parent="PugAsBNVkxPuLp-uwAt2-0" />
@@ -794,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lZGzNVqo85CsRVKZCENY" name="1.3 SP2DK_Attachment">
-    <mxGraphModel dx="1100" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
