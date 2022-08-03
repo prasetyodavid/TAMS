@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T05:57:28.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iIsGTf-JOTep7NEmOPG4" version="20.2.1" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-03T06:00:52.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QpqsTjc-FyWQbM4Tjxrq" version="20.2.1" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3171,8 +3171,8 @@
         <mxCell id="WPmZgiAy77Rx-5yelhnz-0" value="No Surat Keputusan Keberatan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="IvpgYvwTgpbs_m6nbjW7-1">
           <mxGeometry x="425" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPmZgiAy77Rx-5yelhnz-1" value="KBR2022/01/01111" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="IvpgYvwTgpbs_m6nbjW7-1">
-          <mxGeometry x="555" y="47" width="240" height="30" as="geometry" />
+        <mxCell id="ebLKaUqZcacNvZLZspXa-0" value="&lt;span style=&quot;color: rgb(125, 134, 140); background-color: rgb(255, 255, 255);&quot;&gt;KBR2022/01/01111&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#666666;html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="IvpgYvwTgpbs_m6nbjW7-1">
+          <mxGeometry x="555" y="48.5" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
