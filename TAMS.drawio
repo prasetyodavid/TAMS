@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T06:42:06.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B62TGdzdhhlkj2uTLkzu" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-07T07:11:59.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nJ9wPjBAQTV2nz5IrBG8" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1973,7 +1973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.0 Keberatan_addnew" id="N-5TgyTk8MU4Y-6J8kIg">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s7hGtwXR2PkM4yqcLP01-0" />
         <mxCell id="s7hGtwXR2PkM4yqcLP01-1" parent="s7hGtwXR2PkM4yqcLP01-0" />
@@ -2286,7 +2286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.1 Keberatan_Penelaah" id="ymBrcPXGtVTXAg3effVS">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-0" />
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-1" parent="AMon2GWAGg9aUIkyGZZ6-0" />
@@ -2420,7 +2420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.2 Keberatan_SPUH" id="Cwk-aU7bIdpzIDSjm_kP">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lRSdPbKp-UN9kJN4hyGT-0" />
         <mxCell id="lRSdPbKp-UN9kJN4hyGT-1" parent="lRSdPbKp-UN9kJN4hyGT-0" />
@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3 Keberatan_SK_Keberatan" id="luL2Nr6BD5rD76aDel58">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DvzToC6iAJ2QqSBeTsJQ-0" />
         <mxCell id="DvzToC6iAJ2QqSBeTsJQ-1" parent="DvzToC6iAJ2QqSBeTsJQ-0" />
@@ -2817,7 +2817,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.0 Banding_addnew" id="4DoD7aFAT3fmJZSVcbbs">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-0" />
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-1" parent="IvpgYvwTgpbs_m6nbjW7-0" />
@@ -3330,7 +3330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.3 Banding_PutusanPengadilan" id="LUkNxZMoXzHHOSL4kUpg">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OGEsH83pd0sptw2x8_v9-0" />
         <mxCell id="OGEsH83pd0sptw2x8_v9-1" parent="OGEsH83pd0sptw2x8_v9-0" />
@@ -3488,7 +3488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.0 PeninjauanKembali_addnew" id="WVL6fTlOyPJS4AzaqN6k">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-0" />
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-1" parent="8FIqg90ihQ3S-sh6E_EN-0" />
@@ -3759,16 +3759,16 @@
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-82" value="Attachment Memori PK" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="8FIqg90ihQ3S-sh6E_EN-1" vertex="1">
           <mxGeometry x="460" y="410" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KpdlC5UquaHQek07im-0" value="Nama Konsultan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="8FIqg90ihQ3S-sh6E_EN-1">
+        <mxCell id="O5KpdlC5UquaHQek07im-0" value="Nama Konsultan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="8FIqg90ihQ3S-sh6E_EN-1" vertex="1">
           <mxGeometry x="425" y="220" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KpdlC5UquaHQek07im-1" value="Penanggung Jawab Konsultan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="8FIqg90ihQ3S-sh6E_EN-1">
+        <mxCell id="O5KpdlC5UquaHQek07im-1" value="Penanggung Jawab Konsultan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="8FIqg90ihQ3S-sh6E_EN-1" vertex="1">
           <mxGeometry x="425" y="260" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KpdlC5UquaHQek07im-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="8FIqg90ihQ3S-sh6E_EN-1">
+        <mxCell id="O5KpdlC5UquaHQek07im-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="8FIqg90ihQ3S-sh6E_EN-1" vertex="1">
           <mxGeometry x="555" y="220" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KpdlC5UquaHQek07im-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="8FIqg90ihQ3S-sh6E_EN-1">
+        <mxCell id="O5KpdlC5UquaHQek07im-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="8FIqg90ihQ3S-sh6E_EN-1" vertex="1">
           <mxGeometry x="555" y="260" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
