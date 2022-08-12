@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T07:11:59.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nJ9wPjBAQTV2nz5IrBG8" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-12T07:28:36.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eGqH8Vw9_3i6J5eL1gDA" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1973,7 +1973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.0 Keberatan_addnew" id="N-5TgyTk8MU4Y-6J8kIg">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s7hGtwXR2PkM4yqcLP01-0" />
         <mxCell id="s7hGtwXR2PkM4yqcLP01-1" parent="s7hGtwXR2PkM4yqcLP01-0" />
@@ -2286,7 +2286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.1 Keberatan_Penelaah" id="ymBrcPXGtVTXAg3effVS">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-0" />
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-1" parent="AMon2GWAGg9aUIkyGZZ6-0" />
@@ -2420,7 +2420,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.2 Keberatan_SPUH" id="Cwk-aU7bIdpzIDSjm_kP">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lRSdPbKp-UN9kJN4hyGT-0" />
         <mxCell id="lRSdPbKp-UN9kJN4hyGT-1" parent="lRSdPbKp-UN9kJN4hyGT-0" />
@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.3 Keberatan_SK_Keberatan" id="luL2Nr6BD5rD76aDel58">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DvzToC6iAJ2QqSBeTsJQ-0" />
         <mxCell id="DvzToC6iAJ2QqSBeTsJQ-1" parent="DvzToC6iAJ2QqSBeTsJQ-0" />
@@ -2762,8 +2762,8 @@
         <mxCell id="w4VITBVV0OiYV8yeo94I-7" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;html=1;" parent="w4VITBVV0OiYV8yeo94I-5" vertex="1">
           <mxGeometry x="215" y="6" width="18" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="mUr6SaA4-hXtPRzeBbG5-0" value="Summary Surat Tanggapan SPUH" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
-          <mxGeometry x="40" y="530" width="120" height="30" as="geometry" />
+        <mxCell id="mUr6SaA4-hXtPRzeBbG5-0" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Calibri, sans-serif, &amp;quot;Mongolian Baiti&amp;quot;, &amp;quot;Microsoft Yi Baiti&amp;quot;, &amp;quot;Javanese Text&amp;quot;, &amp;quot;Yu Gothic&amp;quot;; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;Summary Surat Keputusan Keberatan&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
+          <mxGeometry x="40" y="530" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mUr6SaA4-hXtPRzeBbG5-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
           <mxGeometry x="170" y="530" width="240" height="60" as="geometry" />
