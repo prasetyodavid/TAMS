@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T07:28:36.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eGqH8Vw9_3i6J5eL1gDA" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-12T07:30:55.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WnobKF96Z7TFMK0_gB4b" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2390,12 +2390,6 @@
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-31" value="" style="shape=line;strokeColor=#ffffff;direction=south;fontSize=15;fillColor=#C7C7C7;" parent="AMon2GWAGg9aUIkyGZZ6-25" vertex="1">
           <mxGeometry x="597.081081081081" y="5" width="45.4054054054054" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AMon2GWAGg9aUIkyGZZ6-32" value="Nama Penelaah 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="50" y="370" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AMon2GWAGg9aUIkyGZZ6-38" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="170" y="370" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="AMon2GWAGg9aUIkyGZZ6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="226.5" as="sourcePoint" />
@@ -2403,18 +2397,6 @@
         </mxCell>
         <mxCell id="AMon2GWAGg9aUIkyGZZ6-47" value="....." style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
           <mxGeometry x="20" y="140" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9zWvftSDE8Ug26QTc2zS-0" value="Nama Penelaah 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="50" y="410" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9zWvftSDE8Ug26QTc2zS-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="170" y="410" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9zWvftSDE8Ug26QTc2zS-2" value="Nama Penelaah 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="50" y="450" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9zWvftSDE8Ug26QTc2zS-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="AMon2GWAGg9aUIkyGZZ6-1" vertex="1">
-          <mxGeometry x="170" y="450" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
