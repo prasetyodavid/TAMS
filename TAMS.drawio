@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T07:30:55.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WnobKF96Z7TFMK0_gB4b" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-12T07:56:41.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="K8IVn-wuKR1SSaJ1WeuJ" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="demxaWm4iWllAmm4PLwC" name="1.0 SP2DK_addnew">
-    <mxGraphModel dx="1191" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c52iCUCW4sudxZEbIMSD" name="1.1 SP2DK_Tanggapan">
-    <mxGraphModel dx="1191" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1.2 Summary SP2DK_Tanggapan" id="Hm0V6uU0MD5hKMshufTV">
-    <mxGraphModel dx="1191" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PugAsBNVkxPuLp-uwAt2-0" />
         <mxCell id="PugAsBNVkxPuLp-uwAt2-1" parent="PugAsBNVkxPuLp-uwAt2-0" />
@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lZGzNVqo85CsRVKZCENY" name="1.3 SP2DK_Attachment">
-    <mxGraphModel dx="1191" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,7 +844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FkaQ_ybhUAW1tT8vbCk3" name="2.0 Pemeriksaan_addnew">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -852,7 +852,7 @@
           <mxGeometry y="-15" width="840" height="2165" as="geometry" />
         </mxCell>
         <mxCell id="AnbSKfUmNRryQFDVEKb1-24" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry y="700" width="405" height="280" as="geometry" />
+          <mxGeometry x="5" y="700" width="405" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8PTYoIOXoa9B6oyhRjFP-1" value="PT Ciputra Development" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="40" width="240" height="33" as="geometry" />
@@ -1011,10 +1011,10 @@
           <mxGeometry y="50" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="AnbSKfUmNRryQFDVEKb1-4" value="Risalah Pembahasan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="15" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="710" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnbSKfUmNRryQFDVEKb1-7" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacingLeft=0;spacing=15;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="145" y="730" width="240" height="30" as="geometry" />
+          <mxGeometry x="145" y="710" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnbSKfUmNRryQFDVEKb1-8" value="Browse" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="AnbSKfUmNRryQFDVEKb1-7" vertex="1">
           <mxGeometry x="1" width="70" height="30" relative="1" as="geometry">
@@ -1397,11 +1397,14 @@
         <mxCell id="oDXexfi0S5UueiDtE8MD-12" value="Maximum pick date = Tanggal SPHP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oDXexfi0S5UueiDtE8MD-10" vertex="1">
           <mxGeometry x="5" y="6.666666666666666" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="clSoPtGxPABfdRBoAEbj-1" value="View File" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Wd518yZDG4btTS7QrFMS" name="2.1 Pemeriksaan_PA">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1619,7 +1622,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2.2 Pemeriksaan_Document Lain" id="cP3jVH4JlipxOyG8sREu">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Um_vG7_-E-A01uJ_kRnd-0" />
         <mxCell id="Um_vG7_-E-A01uJ_kRnd-1" parent="Um_vG7_-E-A01uJ_kRnd-0" />
@@ -1973,7 +1976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3.0 Keberatan_addnew" id="N-5TgyTk8MU4Y-6J8kIg">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s7hGtwXR2PkM4yqcLP01-0" />
         <mxCell id="s7hGtwXR2PkM4yqcLP01-1" parent="s7hGtwXR2PkM4yqcLP01-0" />
@@ -2799,7 +2802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.0 Banding_addnew" id="4DoD7aFAT3fmJZSVcbbs">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-0" />
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-1" parent="IvpgYvwTgpbs_m6nbjW7-0" />
@@ -3144,7 +3147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.1 Banding_SUB" id="Ctgm3idG0suMUe74KyeW">
-    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Plgh-NZkNcidSgh1Nw3S-0" />
         <mxCell id="Plgh-NZkNcidSgh1Nw3S-1" parent="Plgh-NZkNcidSgh1Nw3S-0" />
@@ -3312,7 +3315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.3 Banding_PutusanPengadilan" id="LUkNxZMoXzHHOSL4kUpg">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="OGEsH83pd0sptw2x8_v9-0" />
         <mxCell id="OGEsH83pd0sptw2x8_v9-1" parent="OGEsH83pd0sptw2x8_v9-0" />
@@ -3470,7 +3473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.0 PeninjauanKembali_addnew" id="WVL6fTlOyPJS4AzaqN6k">
-    <mxGraphModel dx="977" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-0" />
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-1" parent="8FIqg90ihQ3S-sh6E_EN-0" />
