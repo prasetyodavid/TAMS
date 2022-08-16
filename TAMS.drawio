@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:59:49.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hikUyc8roKOJJVuBg79C" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-16T04:07:40.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZFf3tp2JYwpPWo3x7YUl" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2149,10 +2149,10 @@
         <mxCell id="s7hGtwXR2PkM4yqcLP01-25" value="Tanggal SKP yang diajukan keberatan" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="s7hGtwXR2PkM4yqcLP01-1" vertex="1">
           <mxGeometry x="425" y="130" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s7hGtwXR2PkM4yqcLP01-26" value="" style="group;fillColor=#C7C7C7;" parent="s7hGtwXR2PkM4yqcLP01-1" vertex="1" connectable="0">
+        <mxCell id="s7hGtwXR2PkM4yqcLP01-26" value="" style="group;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#666666;" parent="s7hGtwXR2PkM4yqcLP01-1" vertex="1" connectable="0">
           <mxGeometry x="555" y="130" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s7hGtwXR2PkM4yqcLP01-27" value="DD-MM-YYYY" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="s7hGtwXR2PkM4yqcLP01-26" vertex="1">
+        <mxCell id="s7hGtwXR2PkM4yqcLP01-27" value="DD-MM-YYYY" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#E6E6E6;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="s7hGtwXR2PkM4yqcLP01-26" vertex="1">
           <mxGeometry width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s7hGtwXR2PkM4yqcLP01-28" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;html=1;" parent="s7hGtwXR2PkM4yqcLP01-26" vertex="1">
