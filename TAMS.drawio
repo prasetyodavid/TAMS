@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:08:55.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="--BAmf64IzDC5QpR2vuE" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-16T03:09:43.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3BfXIp60hvGF4gLrF2Ag" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -457,18 +457,13 @@
             <mxRectangle width="200" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Add (opsional)" link="data:page/id,Hm0V6uU0MD5hKMshufTV" id="_rGg6eH47EVqlKx5Owd7-1">
-          <mxCell style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#0050ef;align=center;strokeColor=#001DBC;fontColor=#ffffff;" parent="_Wwp8yRxypvAJOrcv_sF-1" vertex="1">
+        <UserObject label="Edit" link="data:page/id,Hm0V6uU0MD5hKMshufTV" id="_rGg6eH47EVqlKx5Owd7-2">
+          <mxCell style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#f0a30a;align=center;strokeColor=#BD7000;fontColor=#000000;" parent="_Wwp8yRxypvAJOrcv_sF-1" vertex="1">
             <mxGeometry x="14" y="40" width="105.5" height="16.88" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Edit" link="data:page/id,Hm0V6uU0MD5hKMshufTV" id="_rGg6eH47EVqlKx5Owd7-2">
-          <mxCell style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#f0a30a;align=center;strokeColor=#BD7000;fontColor=#000000;" parent="_Wwp8yRxypvAJOrcv_sF-1" vertex="1">
-            <mxGeometry x="134" y="40" width="105.5" height="16.88" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="_rGg6eH47EVqlKx5Owd7-3" value="Delete" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#e51400;align=center;strokeColor=#B20000;fontColor=#ffffff;" parent="_Wwp8yRxypvAJOrcv_sF-1" vertex="1">
-          <mxGeometry x="254" y="40" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="134" y="40" width="105.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="_rGg6eH47EVqlKx5Owd7-21" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;Jenis Pajak&lt;/th&gt;&lt;td&gt;&lt;b&gt;Jumlah&lt;/b&gt;&lt;/td&gt;&lt;th align=&quot;left&quot;&gt;Tanggal Bayar&lt;/th&gt;&lt;td&gt;Kode Akun Pajak&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut KPP&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut SPT&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut Wajib Pajak&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Menurut KPP&lt;/b&gt;&lt;br&gt;&lt;/td&gt;&lt;th align=&quot;left&quot;&gt;NTPN&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh Badan&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;DD-MM-YYYY&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;XXXX&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;PPh 21/26&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;DD-MM-YYYY&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;XXXX&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;shadow=1;fontColor=#4D4D4D;" parent="j38sSHkUakYdXS_lzeyB-2" vertex="1">
           <mxGeometry x="14" y="70" width="760" height="120" as="geometry" />
