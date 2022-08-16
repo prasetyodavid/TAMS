@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:09:43.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3BfXIp60hvGF4gLrF2Ag" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-16T03:11:57.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="i8PfSIWxcwRzuFO2cNRM" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1362,7 +1362,7 @@
             <mxGeometry x="20" y="2090" width="170" height="38" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="oDXexfi0S5UueiDtE8MD-1" value="PPH Badan" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="1" vertex="1">
+        <mxCell id="oDXexfi0S5UueiDtE8MD-1" value="PPH Badan" style="rounded=1;html=1;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="122" width="240" height="33" as="geometry" />
         </mxCell>
         <mxCell id="oDXexfi0S5UueiDtE8MD-2" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;fontColor=default;" parent="oDXexfi0S5UueiDtE8MD-1" vertex="1">
