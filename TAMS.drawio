@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T03:08:01.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yWXCmVyGonpukXb4pAkn" version="20.2.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-08-16T03:08:21.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ofhEdh0362GK2T0U69RH" version="20.2.3" type="github" pages="22">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -749,7 +749,7 @@
         <mxCell id="l1VkPfGAF9hv83QYzxjO-11" value="Jenis Pajak" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
           <mxGeometry x="9" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ph1yc1Ag5xMtr9iXxEuc-0" value="PPh Badan" style="rounded=1;html=1;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
+        <mxCell id="Ph1yc1Ag5xMtr9iXxEuc-0" value="PPh Badan" style="rounded=1;html=1;align=left;fontSize=12;spacingLeft=10;sketch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="PugAsBNVkxPuLp-uwAt2-1" vertex="1">
           <mxGeometry x="139" y="124" width="240" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Ph1yc1Ag5xMtr9iXxEuc-1" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;fontColor=default;" parent="Ph1yc1Ag5xMtr9iXxEuc-0" vertex="1">
