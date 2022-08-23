@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:44:14.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-5pePB5IMyLobPTO0lD3" version="20.2.4" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:44:41.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GFcz4o_35CZ_qXS-3Ldk" version="20.2.4" type="github" pages="21">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2789,7 +2789,7 @@
           <mxGeometry y="58.333333333333336" width="15.517241379310347" height="11.666666666666668" as="geometry" />
         </mxCell>
         <mxCell id="_xXJ08LXQubnjzDSQk1d-0" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
-          <mxGeometry x="30" y="910" width="570" height="710" as="geometry" />
+          <mxGeometry x="30" y="910" width="570" height="680" as="geometry" />
         </mxCell>
         <mxCell id="_xXJ08LXQubnjzDSQk1d-1" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0.68;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="DvzToC6iAJ2QqSBeTsJQ-1" source="QGXyyRUvgvaSgoOIOT89-0" target="DvzToC6iAJ2QqSBeTsJQ-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2846,7 +2846,7 @@
           <mxGeometry x="36.5" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LjA5BQX1vwqW_3A_3A0w-12" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
-          <mxGeometry x="36.5" y="1630" width="415" height="320" as="geometry" />
+          <mxGeometry x="36.5" y="1620" width="415" height="330" as="geometry" />
         </mxCell>
         <mxCell id="LjA5BQX1vwqW_3A_3A0w-16" value="&lt;div&gt;Tanggal Pembayaran Sisa Pokok SKP&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NTPN (apabila KB)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Jumlah PPh/PPN LB yang akan Diterima&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
           <mxGeometry x="49" y="1660" width="120" height="90" as="geometry" />
