@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:22:03.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BTw4QFEI-Y6Fc8s3YMIS" version="20.2.4" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:22:17.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="y-t80AglAt8oLEuStY2N" version="20.2.4" type="github" pages="21">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1877,7 +1877,7 @@
           <mxGeometry x="167.5" y="671" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jLTkIN90hz-5UWmkRllQ-5" value="&lt;div&gt;Keterangan&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="-Bgi64x-EQpvHo8ESXrv-0" vertex="1">
-          <mxGeometry x="37.5" y="714" width="140" height="30" as="geometry" />
+          <mxGeometry x="35.5" y="714" width="124.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jLTkIN90hz-5UWmkRllQ-75" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="-Bgi64x-EQpvHo8ESXrv-0" vertex="1">
           <mxGeometry x="167.5" y="714" width="240" height="30" as="geometry" />
