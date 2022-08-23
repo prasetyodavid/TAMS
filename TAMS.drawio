@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:40:41.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GqNScIRdwyJ4TfYnz0FF" version="20.2.4" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:44:14.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-5pePB5IMyLobPTO0lD3" version="20.2.4" type="github" pages="21">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2833,7 +2833,7 @@
         <mxCell id="LjA5BQX1vwqW_3A_3A0w-2" value="000,000,000.00&lt;br&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=none;fontColor=#505050;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=10;fontSize=14;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
           <mxGeometry x="175" y="860" width="235" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LjA5BQX1vwqW_3A_3A0w-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
+        <mxCell id="LjA5BQX1vwqW_3A_3A0w-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
           <mxGeometry x="175" y="940" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LjA5BQX1vwqW_3A_3A0w-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="DvzToC6iAJ2QqSBeTsJQ-1" vertex="1">
@@ -2872,6 +2872,60 @@
         </UserObject>
         <mxCell id="rn0v5WHPlbwcq5gTlcnO-2" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Denda (30%) (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Kode Akun Pajak (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Kode Jenis Setoran (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Jumlah Pokok SKP yg belum dibyr sebelum mengajukan Keberatan (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Tarif Bunga (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Jumlah Bulan (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Jumlah Denda Pajak YMH Dibayar (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Tanggal Pembayaran Denda (apabila KB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;NTPN (apabila KB)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Pokok PPh/PPN LB yang akan Diterima (apabila LB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Tarif Bunga (apabila LB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Jumlah Bulan (apabila LB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Jumlah Imbalan Bunga (apabila LB)&lt;span style=&quot;font-size: 10px;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Tanggal Penerimaan Imbalan Bunga (apabila LB&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=10;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
           <mxGeometry x="42.5" y="1090" width="150" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-2" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193.5" y="1100" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193.5" y="1129" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193.5" y="1154.5" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-5" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1185" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193.5" y="1222" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-7" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1249" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn152HfJJDE9UBEhytMi-8" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1279" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-0" value="" style="group;fillColor=#C7C7C7;" vertex="1" connectable="0" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193" y="1314" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-1" value="DD-MM-YYYY" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="XYnGfKAmTCJ46fl4SFah-0">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-2" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;html=1;" vertex="1" parent="XYnGfKAmTCJ46fl4SFah-0">
+          <mxGeometry x="215" y="4" width="18" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1342" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-4" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1370" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-5" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="192.5" y="1400" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-6" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193" y="1429" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-7" value="000,000,000.00" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="195" y="1460" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-8" value="" style="group;fillColor=#C7C7C7;" vertex="1" connectable="0" parent="DvzToC6iAJ2QqSBeTsJQ-1">
+          <mxGeometry x="193" y="1492" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-9" value="DD-MM-YYYY" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="XYnGfKAmTCJ46fl4SFah-8">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XYnGfKAmTCJ46fl4SFah-10" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=default;html=1;" vertex="1" parent="XYnGfKAmTCJ46fl4SFah-8">
+          <mxGeometry x="215" y="4" width="18" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
