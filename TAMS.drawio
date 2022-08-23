@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:44:41.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GFcz4o_35CZ_qXS-3Ldk" version="20.2.4" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:54:37.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nR36Ra1x_Zg9o3DQ9CDZ" version="20.2.4" type="github" pages="21">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3449,11 +3449,11 @@
         <mxCell id="OGEsH83pd0sptw2x8_v9-0" />
         <mxCell id="OGEsH83pd0sptw2x8_v9-1" parent="OGEsH83pd0sptw2x8_v9-0" />
         <mxCell id="OGEsH83pd0sptw2x8_v9-2" value="Keberatan / Banding / PK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#FFFFFF;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry y="-40" width="840" height="1030" as="geometry" />
+          <mxGeometry y="-40" width="840" height="1460" as="geometry" />
         </mxCell>
         <UserObject label="" link="data:page/id,waRCfnYGYvOanYfO8j-y" id="OGEsH83pd0sptw2x8_v9-3">
           <mxCell style="group" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1" connectable="0">
-            <mxGeometry x="620" y="920" width="180" height="38" as="geometry" />
+            <mxGeometry x="620" y="1362" width="180" height="38" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="PRINT" id="OGEsH83pd0sptw2x8_v9-4">
@@ -3466,7 +3466,7 @@
         </mxCell>
         <UserObject label="" link="data:page/id,UL-s0zWcEZjIWfqhGRpr" id="OGEsH83pd0sptw2x8_v9-6">
           <mxCell style="group" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1" connectable="0">
-            <mxGeometry x="20" y="918" width="180" height="40" as="geometry" />
+            <mxGeometry x="20" y="1360" width="180" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SAVE" id="OGEsH83pd0sptw2x8_v9-7">
@@ -3478,7 +3478,7 @@
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OGEsH83pd0sptw2x8_v9-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry x="20" y="350" width="780" height="500" as="geometry" />
+          <mxGeometry x="20" y="350" width="780" height="990" as="geometry" />
         </mxCell>
         <mxCell id="OGEsH83pd0sptw2x8_v9-17" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;fontSize=15;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
           <mxGeometry y="-10" width="840" height="30" as="geometry" />
@@ -3537,7 +3537,7 @@
           <mxGeometry y="58.333333333333336" width="15.517241379310347" height="11.666666666666668" as="geometry" />
         </mxCell>
         <mxCell id="OGEsH83pd0sptw2x8_v9-45" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry x="20" y="530" width="405" height="280" as="geometry" />
+          <mxGeometry x="20" y="530" width="700" height="520" as="geometry" />
         </mxCell>
         <mxCell id="OGEsH83pd0sptw2x8_v9-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;entryX=0.874;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="OGEsH83pd0sptw2x8_v9-1" source="OGEsH83pd0sptw2x8_v9-48" target="OGEsH83pd0sptw2x8_v9-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3558,20 +3558,11 @@
         <mxCell id="OGEsH83pd0sptw2x8_v9-48" value="&lt;span style=&quot;text-align: left;&quot;&gt;Setuju dengan Putusan Pengadilan Pajak ?&amp;nbsp;&lt;/span&gt;&lt;i&gt;(Jika tidak , Tab Peninjauan Kembali baru bisa di-UnLock)&lt;/i&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
           <mxGeometry x="480" y="380" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OGEsH83pd0sptw2x8_v9-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;entryX=0.68;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;" parent="OGEsH83pd0sptw2x8_v9-1" target="OGEsH83pd0sptw2x8_v9-48" edge="1">
+        <mxCell id="OGEsH83pd0sptw2x8_v9-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;entryX=0.68;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" parent="OGEsH83pd0sptw2x8_v9-1" target="OGEsH83pd0sptw2x8_v9-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="500" as="sourcePoint" />
             <mxPoint x="571.2" y="23.809999999999945" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OGEsH83pd0sptw2x8_v9-50" value="No SKP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry x="40" y="550" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OGEsH83pd0sptw2x8_v9-51" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry x="170" y="550" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OGEsH83pd0sptw2x8_v9-52" value="dst....." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
-          <mxGeometry x="172.5" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBjp3A41uvgeSoOWv4rq-0" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;fillColor=#444444;strokeColor=none;fontSize=15;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
           <mxGeometry x="20" y="320" width="780" height="30" as="geometry" />
@@ -3597,6 +3588,15 @@
         </UserObject>
         <mxCell id="eBjp3A41uvgeSoOWv4rq-6" value="" style="shape=line;strokeColor=#ffffff;direction=south;fontSize=15;fillColor=#C7C7C7;" parent="eBjp3A41uvgeSoOWv4rq-0" vertex="1">
           <mxGeometry x="554.4324324324324" y="5" width="42.16216216216216" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OGEsH83pd0sptw2x8_v9-52" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;a. No. SKP / STP : XXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;b. Jenis Pajak : XXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;c. Masa Pajak : XXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;d. Tahun Pajak : XXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;e. Tanggal terbit : XXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;f. Tanggal Jatuh Tempo : XXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;g. Jumlah PPh/PPN Kurang (Lebih) Dibayar : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;h. Kode Akun Pajak (apabila KB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;i. Kode Jenis Setoran (apabila KB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;j. Tanggal Pembayaran (apabila KB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;k. NTPN (apabila KB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;l. Tanggal PPh/PPN yg akan Diterima (apabila LB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;m. Jumlah PPh/PPN yg akan Diterima (apabila LB) : XXXXXXXX&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;n. Keterangan : XXXXXXXX&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;o. Pokok PPh/PPN YMH Dibayar (apabila Kurang Bayar / KB)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;p. Tanggal Pembayaran Sisa Pokok SKP (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Date)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;q. NTPN (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;r. Pokok PPh/PPN LB yang Akan Diterima (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- STP&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Attachment pdf)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- Summary STP&lt;span style=&quot;font-size: 11px;&quot;&gt;		&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; a. Denda (60% dari jumlah yg belum dibayar sebelum mengajukan keberatan) (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; b. Kode Akun Pajak (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; c. Kode Jenis Setoran (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; d. Jumlah Pokok SKP yg belum dibyr sebelum mengajukan Keberatan (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; e. Tarif Bunga (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; f. Jumlah Bulan (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; g. Jumlah Denda Pajak YMH Dibayar (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; h. Tanggal Pembayaran Denda (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Date)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; i. NTPN (apabila KB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; j. Pokok PPh/PPN LB yang akan Diterima (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; k. Tarif Bunga (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Text)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; l. Jumlah Bulan (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; m. Jumlah Imbalan Bunga (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Numeric)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; n. Tanggal Penerimaan Imbalan Bunga (apabila LB)&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;:&lt;span style=&quot;font-size: 11px;&quot;&gt;	&lt;/span&gt;(Date)&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=11;" parent="OGEsH83pd0sptw2x8_v9-1" vertex="1">
+          <mxGeometry x="40" y="540" width="587.5" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RlePFg67Xr6LcqUqpPz--0" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;" edge="1" parent="OGEsH83pd0sptw2x8_v9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
