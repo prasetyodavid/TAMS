@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T02:42:35.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hysOsN2t93I6GrY0G7ch" version="20.2.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-08-30T03:52:06.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4K-bR4FjXPRAFSbjsAP1" version="20.2.7" type="github" pages="21">
   <diagram id="wLIBG2RPLskP7Pkt1ycl" name="0.0 MainMenu">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2943,7 +2943,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4.0 Banding_addnew" id="4DoD7aFAT3fmJZSVcbbs">
-    <mxGraphModel dx="1146" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-0" />
         <mxCell id="IvpgYvwTgpbs_m6nbjW7-1" parent="IvpgYvwTgpbs_m6nbjW7-0" />
@@ -3241,12 +3241,6 @@
         </mxCell>
         <mxCell id="BVn1MH-sEbIKUiAD0sDi-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="IvpgYvwTgpbs_m6nbjW7-1" vertex="1">
           <mxGeometry x="180" y="620" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BVn1MH-sEbIKUiAD0sDi-8" value="No. Sengketa Pajak" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="IvpgYvwTgpbs_m6nbjW7-1" vertex="1">
-          <mxGeometry x="450" y="540" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BVn1MH-sEbIKUiAD0sDi-9" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="IvpgYvwTgpbs_m6nbjW7-1" vertex="1">
-          <mxGeometry x="580" y="540" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVn1MH-sEbIKUiAD0sDi-10" value="No. Permintaan Surat Uraian Banding (SUB)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontSize=10;" parent="IvpgYvwTgpbs_m6nbjW7-1" vertex="1">
           <mxGeometry x="450" y="580" width="120" height="30" as="geometry" />
@@ -3620,7 +3614,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.0 PeninjauanKembali_addnew" id="WVL6fTlOyPJS4AzaqN6k">
-    <mxGraphModel dx="1146" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-0" />
         <mxCell id="8FIqg90ihQ3S-sh6E_EN-1" parent="8FIqg90ihQ3S-sh6E_EN-0" />
@@ -3907,7 +3901,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.1 PeninjauanKembali_KontraMemori" id="2F4PLbynFuayz_X244UG">
-    <mxGraphModel dx="1146" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nCVqL3zqksMIUyb4DzZW-0" />
         <mxCell id="nCVqL3zqksMIUyb4DzZW-1" parent="nCVqL3zqksMIUyb4DzZW-0" />
@@ -4085,7 +4079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5.4 PeninjauanKembali_PutusanMK" id="PQFTeQ1eRfRK_gAORt7f">
-    <mxGraphModel dx="1146" dy="1671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="376" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QM464InOCPn89VFXMTV1-0" />
         <mxCell id="QM464InOCPn89VFXMTV1-1" parent="QM464InOCPn89VFXMTV1-0" />
